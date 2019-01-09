@@ -1,0 +1,7 @@
+C:\Users\Derp\source\repos\Stub\Stub\bin\Debug\Stub.exe.config
+C:\Users\Derp\source\repos\Stub\Stub\bin\Debug\Stub.exe
+C:\Users\Derp\source\repos\Stub\Stub\bin\Debug\Stub.pdb
+C:\Users\Derp\source\repos\Stub\Stub\obj\Debug\Stub.vbprojAssemblyReference.cache
+C:\Users\Derp\source\repos\Stub\Stub\obj\Debug\Stub.vbproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\Stub\Stub\obj\Debug\Stub.exe
+C:\Users\Derp\source\repos\Stub\Stub\obj\Debug\Stub.pdb
